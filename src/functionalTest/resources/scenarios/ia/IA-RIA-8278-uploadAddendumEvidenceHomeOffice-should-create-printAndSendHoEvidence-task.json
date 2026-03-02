@@ -88,7 +88,6 @@
                 "permissions": {
                   "values": [
                     "Read",
-                    "Own",
                     "Manage",
                     "Execute",
                     "Cancel",
